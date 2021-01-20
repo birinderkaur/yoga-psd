@@ -265,10 +265,16 @@ body{
     font-weight: 500;
     font-family: "Brevia";
     text-align: center;
+    margin-bottom:  50px !important;
 }
 .section-8{
     background-image:url("./imagies/section8-bg.png")
     
+    
+}
+.section8-title{
+    margin-bottom: 250px;
+    padding-top: 290px;
 }
 .section8-title>h6{
     font-size: 42px;
@@ -286,6 +292,9 @@ body{
     font-family: "Forma DJ RMicro";
     margin-left: 60%;
 }
+.section-9{
+    background-color: #49C9D4;
+}
 .section9-first-div>h5{
     font-size: 29px;
     color: #3f505a;
@@ -299,4 +308,19 @@ body{
     color: #0a0a0a;
     font-weight: 500;
     font-family: "Brevia";
+    border-right: white 3px solid;
+}
+.section9-list {
+    font-size: 20px;
+    color: white
+}
+.section9-list li{
+    display: inline;
+    margin-left: 15px;
+}
+
+.section9-list i{
+    padding: 10px;
+    border: white solid 2px;
+    border-radius: 50%;
 }

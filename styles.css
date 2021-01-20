@@ -1,0 +1,302 @@
+body{
+    background-image: url(./);
+}
+.section1
+{
+    background-image: url(./imagies/section1-bg.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.my-navlist{
+    margin: auto ;
+}
+.my-navlist >li>a{
+    text-decoration: none !important;
+    color:#49c9d4 !important;
+}
+.my-navlist>li{
+    border-right:#49c9d4 solid 1px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 10px;
+    color: #49c9d4;
+    font-family: "Brevia";
+    text-align: center;
+    margin-top: 10%;
+}
+.col-title>h1{
+    font-size: 80px;
+    
+    letter-spacing: 10px;
+    color: #ffffff; 
+    font-weight: bold;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+    
+   
+}
+ .my-line{
+    width: 35%;
+    height: 2px;
+    background-color:#49c9d4;
+    margin: auto;
+}
+.col-title>h6{
+    font-size: 37px;
+    color: #49c9d4;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+    margin-top: 10px;
+}
+.col-title>p{
+    font-size: 29px;
+    color: #49c9d4;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+}
+.my-button{
+  
+    background-color: #ffffff !important;
+    font-size: 25px;
+    color: #3f505a !important;
+    font-weight: 500;
+    font-family: "Brevia";
+    text-align: center;
+    margin-bottom: 150px;
+}
+.section2{
+    background-color:#e0e0e0;
+}
+.section2-title> h2 {
+    font-size: 63px;
+    color: #49c9d4;
+    font-family: "Myriad Pro";
+    text-align: center;
+}
+.section2-title> .my-line{
+    width: 35%;
+    height: 2px;
+    background-color:#49c9d4;
+    margin: auto;
+}
+.section2-left-div> p{
+    font-size: 29px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    text-align: left;
+}
+.section2-right-div> p{
+    font-size: 29px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+}
+.section2-right-div>.my-button{
+    
+    background-color: #3f505a !important;
+    font-size: 25px;
+    line-height: 35px;
+    color: #ffffff !important;
+    font-family: "Brevia";
+    text-align: right !important;
+    margin-bottom: 20%;
+}
+.section-3{
+    background-color: #3F505A;
+}
+.section3-div1{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+.section3-div1> h6{
+    font-size: 33px;
+    color: #49c9d4 !important;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+}
+.section3-div1> p{
+    font-size: 25px;
+    line-height: 33px;
+    color: #ffffff;
+    font-family: "Forma DJ RMicro";
+}
+.section3-div1> img{
+    width: 100%;
+}
+.section3>.my-button{
+    border-radius: 5px;
+    background-color: #49c9d4 !important;
+}
+.section4-title h2 {
+   
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: 6px solid #3f505a;
+    margin-top: 50px;
+    font-size: 50px;
+    letter-spacing: 4px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+}
+.section5-rightdiv {
+    width: 699px;
+    height: 465px;
+    background-color: #3f505a;
+}
+.section5-rightdiv> p {
+    font-size: 30px;
+    margin-top: 80px;
+    color: #feffff;
+    font-family: "Forma DJ RMicro";
+    text-align: center !important; 
+}
+.section5-title{
+    margin-top: 100px;
+}
+.section5-title>h4{
+    width: 374px;
+    height: 146px;
+    border-radius: 5px;
+    background-color: #3f505a;
+    font-size: 88px;
+    letter-spacing: 14px;
+    color: #feffff;
+    font-weight: bold;
+    font-family: "Forma DJ RMicro";
+    
+}
+.section5-title>h6{
+    font-size: 46px;
+    letter-spacing: 5px;
+    color: #3f505a;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+.section5-title>h5{
+    font-size: 54px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Brevia";
+    text-align: center;
+}
+.section5-title>button{
+    width: 282px;
+    height: 60px;
+    background-color: #3f505a;
+    font-size: 33px;
+    color: #ffffff;
+    font-family: "Brevia";
+    text-align: center;
+}
+.section-6{
+    padding-top: 100px;
+}
+.section6-cols>h2{
+    font-size: 38px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+}
+.section6-cols>p{
+    
+    font-size: 29px;
+    line-height: 42px;
+    color: #3f505a;
+    font-family: "Forma DJ RMicro";
+    text-align: left;
+}
+.section6-cols>button{
+    font-size: 25px;
+    line-height: 42px;
+    color: #ffffff;
+    font-family: "Brevia";
+    text-align: center;
+    width: 164px;
+    height: 46px;
+    background-color: #49c9d4;
+}
+.section6-cols>img{
+    width: 100%;
+}
+.section7-title>h2{
+    font-size: 54px;
+    line-height: 42px;
+    color: #49c9d4;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+    margin-top: 80px;
+    padding-bottom: 10px;
+}
+.section-7{
+    background-color: #3F505A;
+}
+.section7-leftdiv>p{
+    width: 537px;
+    height: 294px;
+    font-size: 25px;
+    line-height: 33px;
+    color: #fffdfd;
+    font-family: "Forma DJ RMicro";
+    text-align: left;
+    margin-top:60px;
+}
+.section7-rightdiv>p{
+    width: 537px;
+    height: 294px;
+    font-size: 25px;
+    line-height: 33px;
+    color: #fffdfd;
+    font-family: "Forma DJ RMicro";
+    text-align: left;
+    margin-top:60px;
+}
+.section7-my-button{
+    font-size: 25px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Brevia";
+    text-align: center;
+}
+.section-8{
+    background-image:url("./imagies/section8-bg.png")
+    
+}
+.section8-title>h6{
+    font-size: 42px;
+    letter-spacing: 10px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    margin-left: 60%;
+    
+}
+.section8-title>h2{
+    font-size: 50px;
+    color: #49c9d4;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    margin-left: 60%;
+}
+.section9-first-div>h5{
+    font-size: 29px;
+    color: #3f505a;
+    font-weight: 500;
+    font-family: "Forma DJ RMicro";
+    text-align: center;
+}
+.section9-first-div>p{
+    
+    font-size: 21px;
+    color: #0a0a0a;
+    font-weight: 500;
+    font-family: "Brevia";
+}
